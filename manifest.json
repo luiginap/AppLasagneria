@@ -1,7 +1,7 @@
 {
   "name": "Ordini Lasagneria",
   "short_name": "Ordini ML",
-  "description": "Gestione ordini Lasagneria Italiana — Notting Hill & Chelsea",
+  "description": "Gestione ordini Lasagneria Italiana — 14 fornitori, Notting Hill & Chelsea",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
