@@ -1,7 +1,7 @@
 // Service Worker — Ordini Lasagneria PWA
 // Cache strategy: network-first, fall back to cache when offline.
 
-const CACHE_VERSION = 'ordini-ml-v5-help';
+const CACHE_VERSION = 'ordini-ml-v6-pwa-fix';
 const CORE_ASSETS = [
   './',
   './index.html',
